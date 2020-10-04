@@ -1,0 +1,12 @@
+//META{"name":"SubstantialSpace","description":"SubstantialSpace theme","author":"QuentiumYT","version":"2.0","invite":"5sehgXx","source":"https://github.com/QuentiumYT/SubstantialSpace","website":"https://quentium.fr"}*//
+
+@import url("https://bot.quentium.fr/bd/css/transparency.min.css");
+@import url("https://bot.quentium.fr/bd/css/theme.min.css");
+
+:root {
+    --background: url("https://bot.quentium.fr/bd/images/mountain_stars.webp");
+    --transparency: rgba(0, 0, 0, 0.4);
+    --main-color: rgb(0, 255, 0);
+    --middle-color: rgba(0, 255, 0, 0.5);
+    --darker-color: rgba(0, 100, 0, 0.3);
+}
