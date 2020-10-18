@@ -1,8 +1,8 @@
-//META{"name":"SubstantialSpace","description":"SubstantialSpace theme","author":"QuentiumYT","version":"2.0","invite":"5sehgXx","source":"https://github.com/QuentiumYT/SubstantialSpace","website":"https://quentium.fr"}*//
+//META{"name":"SubstantialSpace","description":"SubstantialSpace theme","author":"QuentiumYT","version":"2.1","invite":"5sehgXx","source":"https://github.com/QuentiumYT/SubstantialSpace","website":"https://quentium.fr"}*//
 
 /* Using a CDN to get latest commit with proper Content-Type headers */
-@import url("https://gitcdn.link/repo/QuentiumYT/SubstantialSpace/main/css/transparency.min.css");
-@import url("https://gitcdn.link/repo/QuentiumYT/SubstantialSpace/main/css/theme.min.css");
+@import url("https://ghcdn.rawgit.org/QuentiumYT/SubstantialSpace/main/css/transparency.min.css");
+@import url("https://ghcdn.rawgit.org/QuentiumYT/SubstantialSpace/main/css/theme.min.css");
 
 :root {
     --background: url("https://raw.githubusercontent.com/QuentiumYT/SubstantialSpace/main/images/mountain_stars.webp");
