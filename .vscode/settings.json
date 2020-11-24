@@ -1,3 +1,10 @@
 {
-    "cSpell.enabled": false
+    "cSpell.enabled": false,
+    "liveSassCompile.settings.formats": [{
+        "format": "compressed",
+        "extensionName": ".min.css",
+        "savePath": "/css/"
+    }],
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.showOutputWindow": false
 }
